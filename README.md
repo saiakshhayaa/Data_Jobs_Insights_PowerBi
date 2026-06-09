@@ -23,11 +23,11 @@ The dashboard combines KPI monitoring, visual analytics, and drill-through funct
 
 Dashboard Overview
 
-"dashboard_overview_page" (dashboard_overview_page.png)
+""Dashboard Overview" (dashboard_overview_page.png)" (dashboard_overview_page.png)
 
 Drill-Through Analysis
 
-"drillthrough_page" (drillthrough_page.png)
+""Drillthrough Page" (drillthrough_page.png)" (drillthrough_page.png)
 
 ---
 
