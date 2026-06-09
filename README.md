@@ -19,15 +19,13 @@ The dashboard combines KPI monitoring, visual analytics, and drill-through funct
 
 ---
 
-📊 Dashboard Preview
+# Dashboard Overview
 
-Dashboard Overview
+![Dashboard Overview](dashboard_overview_page.png)
 
-""Dashboard Overview" (dashboard_overview_page.png)" (dashboard_overview_page.png)
+# Drill-Through Analysis
 
-Drill-Through Analysis
-
-""Drillthrough Page" (drillthrough_page.png)" (drillthrough_page.png)
+![Drillthrough Page](drillthrough_page.png)
 
 ---
 
