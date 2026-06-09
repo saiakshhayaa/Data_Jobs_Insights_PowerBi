@@ -23,11 +23,11 @@ The dashboard combines KPI monitoring, visual analytics, and drill-through funct
 
 Dashboard Overview
 
-![Dashboard_Overview](images/Dashboard_Overview_Page.png)
+![Dashboard_Overview](images/dashboard_overview_page.png)
 
 Drill-Through Analysis
 
-![Drillthrough_Page](images/Drillthrough_Page.png)
+![Drillthrough_Page](images/drillthrough_page.png)
 
 ---
 
@@ -61,8 +61,8 @@ Job_Market_Insights/
 ├── Job_Market_Insights.pbix
 ├── README.md
 └── images/
-    ├── Dashboard_Overview_Page.png
-    └── Drillthrough_Page.png
+    ├── dashboard_overview_page.png
+    └── drillthrough_page.png
 
 ---
 
